@@ -13,6 +13,7 @@ public class GameLoader : MonoBehaviour
 
     private void Start()
     {
+        PlayerPrefs.DeleteKey("CurrentScene");
         int currentScene = PlayerPrefs.GetInt("CurrentScene", DEFAULT_SCENE_INDEX);
         _nameCompanyText.DOFade(1f, 0.1f).From(0).OnComplete(() => { LoadCurrentScene(currentScene); });
     }
