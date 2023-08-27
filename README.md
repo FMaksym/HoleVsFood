@@ -1,8 +1,8 @@
 <h1 align="center">
-  Cube Surfer
+  Hole Vs Food
 </h1> 
 
-<p align="center"> <img src="https://github.com/FMaksym/HoleVsFood/blob/main/Media/HoleVsFood_game.gif" width="950" height="450"/> </p>
+<p align="center"> <img src="https://github.com/FMaksym/HoleVsFood/blob/main/Media/HoleVsFood_game.gif" width="950" height="500"/> </p>
 
 ---
 
@@ -12,7 +12,7 @@ In the game you can see:
   - Various food items to devour
   - Multiple levels
     
-    <p align="center"> <img src="https://github.com/FMaksym/HoleVsFood/blob/main/Media/HoleVsFood_gameOver.gif" width="950" height="450"/> </p>
+    <p align="center"> <img src="https://github.com/FMaksym/HoleVsFood/blob/main/Media/HoleVsFood_gameOver.gif" width="950" height="500"/> </p>
 ---
 
 Screenshots from the game:
